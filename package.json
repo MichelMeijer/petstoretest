@@ -1,7 +1,7 @@
 {
-    "name": "@elasticio/petstore-component-nodejs",
+    "name": "Micheltest-component-nodejs",
     "version": "0.0.1",
-    "description": "elastic.io component for the Petstore API",
+    "description": "elastic.io component for testing purposes",
     "scripts": {
         "test": "exit 0"
     },
